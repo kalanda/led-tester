@@ -24,6 +24,3 @@ With this device you can test any bipolar LEDs and see with your eyes the real b
 ![image](images/schema.png)
 
 ![image](images/board.png)
-
-## Photos
-
